@@ -6,3 +6,10 @@ public enum MenuOptions
 	DeleteBooks,
 	AddBooks,
 }
+
+public enum ItemType
+{
+	Book,
+	Magazine,
+	Newspaper,
+}
