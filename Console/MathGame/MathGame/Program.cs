@@ -1,0 +1,1 @@
+﻿new MathGame.UserInterface().Run();
