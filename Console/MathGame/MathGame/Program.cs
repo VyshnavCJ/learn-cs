@@ -1,1 +1,7 @@
-﻿new MathGame.UserInterface().Run();
+﻿class Program
+{
+    static void Main(string[] args)
+    {
+        new MathGame.UserInterface().Run();
+    }
+}
